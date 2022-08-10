@@ -1,0 +1,23 @@
+{
+  "name": "evoluting",
+  "version": "0.1.0",
+  "description": "Test project for genetic algorithms",
+  "homepage": "https://github.com/mauricioaraldi/evoluting",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "genetic"
+  ],
+  "author": {
+    "name": "Mauricio Araldi",
+    "url": "https://github.com/mauricioaraldi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mauricioaraldi/evoluting"
+  },
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {},
+  "dependencies": {}
+}
